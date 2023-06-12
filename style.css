@@ -1,0 +1,167 @@
+
+        .Name{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        margin-top: 100px;
+        background-color: skyblue;
+        color: white;
+        }
+
+        .short_desc{
+        font-family: arial;
+        font-size: 13px;
+        text-align: center;
+        font-style: italic;
+        text-decoration: underline;
+        }
+
+  
+
+        .next{
+        background-color: rgb(13, 13, 103);
+        color:white;
+        text-align: right;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border: none;
+        cursor: pointer;
+        transition: 0.15s;
+        }
+
+        .next:hover{
+        background-color: rgba(13, 13, 103, 0.5);
+        text-decoration: underline;
+        }
+
+
+        .sns{
+            margin-left: 530px;
+            display: inline-block;
+            margin-top: 20px;
+            
+        }
+
+        .insta,
+        .linked-in,
+        .blog{
+            width: 40px;
+            transition: 0.15s;
+            cursor: pointer;
+         
+        }
+        .insta:hover,
+        .linked-in:hover,
+        .blog:hover{
+            box-shadow: 2px 2px rgb(150, 149, 149);
+            border-radius: 2px;
+         
+        }
+        .me-image,
+        .me3-image{
+            width: 300px;
+            margin-left: 45px;
+            border-radius: 20px;
+        }
+
+        .me2-image{
+            width: 400px;
+            margin-left: 45px;
+            margin-top: 30px;
+            border-radius: 20px;
+        
+        }
+
+        .fav{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 90px;
+            text-align: center;
+        }
+
+        .fav-def{
+            margin-top: 0;
+            font-size: 12px;
+        }
+
+        .color,
+        .animal,
+        .food{
+            display: inline-block;
+            margin-right: 20px;
+        }
+
+        .blue-color,
+        .dog-animal,
+        .Tteok-food{
+            border-radius: 20px;
+            width: 250px;
+
+        }
+       
+        .blue-text,
+        .dog-text,
+        .tteok-text{
+            font-size: 13px;
+        }
+
+        .studies{
+            display: inline-block;
+            margin-left: 50px;
+            margin-right: 50px;
+            
+
+        }
+
+        .major{
+            margin-top: 70px;
+            font-family: arial;
+            text-align: center;
+            display: inline-block;
+            vertical-align: top;
+            margin-right: 35px;
+        }
+
+        .my-major{
+            background-color: azure;
+            font-size: 13px;     
+        }
+
+        .major-def{
+            display: inline-block;
+            border-color: blue;
+            border-width: 1px;
+            
+        }
+
+        .bio-img{
+            width: 250px;
+            vertical-align: top;
+        }
+
+        .bio-text{
+            display: inline-block;
+            font-size: 13px;
+            width: 250px;
+          
+        }
+
+        .major-link{
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+        .link-text{
+            font-size: 13px;
+            color: black;
+            width: 250px;
+            transition: 0.15s;
+            cursor: pointer;
+        }
+
+        .link-text:hover{
+            background-color: black;
+            color: white;
+
+        }
